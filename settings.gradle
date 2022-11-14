@@ -1,0 +1,2 @@
+include ':binderStatic'
+include ':app'

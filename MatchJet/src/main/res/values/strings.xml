@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <attr name="overlaySurface" format="boolean" />
+
+    <string name="okay">OKAY</string>
+    <string name="photo_access">Photo Access</string>
+    <string name="to_upload_photos_from">To upload photos from your device,\nBinder needs to access your\nphotos.\nPlease tap \'Allow\' in the next step.</string>
+
+
+    <string name="free">Free</string>
+    <string name="credits_capital">Credits</string>
+
+</resources>
+
+
+
+
+
+
