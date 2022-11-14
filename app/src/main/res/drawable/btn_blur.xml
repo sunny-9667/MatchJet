@@ -6,4 +6,5 @@
 
     <!-- Enabled background -->
     <item android:color="@color/pink_color"/>
+
 </selector>
